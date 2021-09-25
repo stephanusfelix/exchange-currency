@@ -1,0 +1,21 @@
+.Table{
+    color: white;
+    font-size: 30px;
+    table{
+        border-collapse:collapse;
+        tr{
+            
+            th{
+                width: 50px;
+                overflow-wrap: break-word;
+                padding: 15px 10px;
+                border-bottom: 1px solid white;
+                
+            }
+            td {
+                padding: 15px 10px 0;
+                text-align: center;
+            }
+        }
+    }
+}
